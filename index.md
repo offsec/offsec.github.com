@@ -5,7 +5,7 @@ tagline: personal InfoSec blog, not in anyway related to offensive-security.com
 ---
 {% include JB/setup %}
 
-  NOT IN ANYWAY RELATED TO OFFENSIVE-SECURITY.com
+  NOT IN ANYWAY RELATED TO OFFENSIVE-SECURITY.com.
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
