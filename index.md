@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: My Offensive Security Blog
+tagline: personal InfoSec blog, not in anyway related to offensive-security.com
 ---
 {% include JB/setup %}
 
